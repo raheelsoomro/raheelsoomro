@@ -26,7 +26,7 @@ Backend Development · API Design · Cloud Infrastructure · Open Source
 ### Connect
 
 - **GitHub:** [github.com/raheelsoomro](https://github.com/raheelsoomro)
-- **LinkedIn:** [linkedin.com/in/raheelsoomro](https://linkedin.com/in/raheelsoomro)
+- **LinkedIn:** [linkedin.com/in/yagashi](https://linkedin.com/in/yagashi)
 
 ---
 
